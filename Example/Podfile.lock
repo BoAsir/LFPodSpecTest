@@ -1,0 +1,16 @@
+PODS:
+  - LFPodSpecTest (0.1.0)
+
+DEPENDENCIES:
+  - LFPodSpecTest (from `../`)
+
+EXTERNAL SOURCES:
+  LFPodSpecTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LFPodSpecTest: 59a0ac3cfae19893ab8fa31a04314694dd04b177
+
+PODFILE CHECKSUM: 3ae52822f50429ed2940cb237a726c61312cca7d
+
+COCOAPODS: 1.6.1

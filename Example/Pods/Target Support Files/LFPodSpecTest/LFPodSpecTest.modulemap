@@ -1,0 +1,6 @@
+framework module LFPodSpecTest {
+  umbrella header "LFPodSpecTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

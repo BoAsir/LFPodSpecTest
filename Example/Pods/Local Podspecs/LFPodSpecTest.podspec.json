@@ -1,0 +1,22 @@
+{
+  "name": "LFPodSpecTest",
+  "version": "0.1.0",
+  "summary": "A short description of LFPodSpecTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BoASir/LFPodSpecTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BoASir": "992816613@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/BoASir/LFPodSpecTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LFPodSpecTest/Classes/**/*"
+}
