@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LFPodSpecTest'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = '[iOS] xcodebuild: Returned an unsuccessful exit code. You can use `--verbose` for more information.'
 
 # This description is used to generate tags and improve search results.
@@ -32,9 +32,9 @@ Pod::Spec.new do |s|
 
   # s.source_files = 'LFPodSpecTest/Classes/**/*'
   
-  s.subspec 'TestDir' do |sdkit|
+  s.subspec '宝' do |sdkit|
     sdkit.source_files = 'LFPodSpecTest/Classes/HHObjectCheck.{h,m}'
-    sdkit.public_header_files    = 'LFPodSpecTest/Classes/HHObjectCheck.h'
+    # sdkit.public_header_files    = 'LFPodSpecTest/Classes/HHObjectCheck.h'
     sdkit.frameworks = 'Foundation'
   end
   # s.resource_bundles = {
