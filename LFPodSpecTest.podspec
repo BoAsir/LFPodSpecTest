@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LFPodSpecTest'
-  s.version          = '0.1.8'
+  s.version          = '0.1.9'
   s.summary          = '[iOS] xcodebuild: Returned an unsuccessful exit code. You can use `--verbose` for more information.'
 
 # This description is used to generate tags and improve search results.
